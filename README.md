@@ -1,4 +1,4 @@
-# Discord Bot using Class and Es6 in JavaScript
+# Discord Bot using CommonJS in JavaScript
 
 uma simples base de um bot em JavaScript utilizando o módulo padrão (CommonJS);
 
