@@ -1,0 +1,24 @@
+{
+  "text": {
+    "separator": "-"
+  },
+  "perms": {
+    "dev": {
+      "viny": "1013984561153200209"
+    }
+  },
+  "emojis": {
+    "error": "❌",
+    "success": "✅",
+    "piece": "🧩",
+    "waiting": "⏰",
+    "question": "❔"
+  },
+  "colors": {
+    "default": "#ffcedb",
+    "red": "#ed3232",
+    "green": "#32ed61",
+    "blue": "#73b0ff",
+    "invisible": "#303136"
+  }
+}
