@@ -1,6 +1,6 @@
-# Discord Bot using CommonJS in JavaScript
+# Discord Bot using CommonJS in JavaScript and connected in mongodb
 
-uma simples base de um bot em JavaScript utilizando o módulo padrão (CommonJS);
+uma simples base de um bot em JavaScript utilizando o módulo padrão (CommonJS) e utilizando a Database mongoose;
 
 ## Requisitos
 
